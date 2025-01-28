@@ -457,20 +457,20 @@
     },
     {
         "code": "06098",
-        "name": "Night Terrors",
-        "text": "<b>Revelation</b> - Put Night Terrors into play in your threat area.\n<b>Forced</b> - After you fail a skill test: Reveal the top 3 cards of your deck. Draw each weakness revealed this way and remove the other cards from the game.\n[action] If Night Terrors is in your threat area: Test [willpower] (4). After this test ends, discard Night Terrors <i>(even if you fail)</i>.",
+        "name": "Terreurs Nocturnes",
+        "text": "<b>Révélation</b> - Mettez en jeu les Terreurs Nocturnes dans votre zone de menace.\n<b>Forcé</b> - Après avoir échoué à un test de compétence : révélez les 3 cartes du dessus de votre deck. Piochez chaque faiblesse ainsi révélée et retirez les autres cartes de la partie.\n[action] Si les Terreurs Nocturnes sont dans votre zone de menace : effectuez un test de [willpower] (4). Après la fin de ce test, défaussez les Terreurs Nocturnes <i>(même si vous avez échoué)</i>.",
         "traits": "Terreur."
     },
     {
         "code": "06099",
-        "name": "Glimpse of the Underworld",
-        "text": "<b>Revelation</b> - Put Glimpse of the Underworld into play in your threat area.\n<b>Forced</b> - When you would take damage and/or horror: Take 1 additional damage or horror.\n[free]: Discard Glimpse of the Underworld. Then, take 1 damage and 1 horror.",
+        "name": "Aperçu du Monde Souterrain",
+        "text": "<b>Révélation</b> - Mettez en jeu l'Aperçu du Monde Souterrain dans votre zone de menace.\n<b>Forcé</b> - Quand vous devriez subir des dégâts et/ou des horreurs : subissez 1 dégât ou 1 horreur supplémentaire.\n[free] : défaussez l'Aperçu du Monde Souterrain. Ensuite, subissez 1 dégât et 1 horreur.",
         "traits": "Terreur."
     },
     {
         "code": "06100",
-        "name": "Threads of Reality",
-        "text": "<b>Revelation</b> - Attach to the non-permanent, non-weakness asset you control with the highest printed cost. Otherwise, Threads of Reality gains surge.\nTreat attached asset as if its printed text box were blank (except for [[Traits]] and forced abilities).\n[action] Discard an asset you control: Discard Threads of Reality.",
+        "name": "Écheveau de la Réalité",
+        "text": "<b>Révélation</b> - Attachez cette carte au soutien non-Permanent non-faiblesse que vous contrôlez ayant le coût imprimé le plus élevé. Sinon, l'Écheveau de la Réalité gange Renfort.\nLe soutien attaché perd le texte imprimé dans sa boîte de texte (à l'exception des [[Traits]] et des capacités forcées).\n[action] Défaussez un soutien que vous contrôlez : défaussez l'Écheveau de la Réalité.",
         "traits": "Pouvoir."
     },
     {
