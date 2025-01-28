@@ -370,7 +370,7 @@
     {
         "code": "06084",
         "name": "Grey Weaver",
-        "text": "<b>Prey</b> - Lowest [agility].\nHunter.\nWhile Grey Weaver is ready, each investigator at its location cannot take move actions.",
+        "text": "<b>Proie</b> - Lowest [agility].\nHunter.\nWhile Grey Weaver is ready, each investigator at its location cannot take move actions.",
         "traits": "Monstre. Araignée."
     },
     {
@@ -382,7 +382,7 @@
     {
         "code": "06086",
         "name": "The Crawling Mist",
-        "text": "<b>Prey</b> - Most cards in hand.\nHunter. Massive.\nIncrease the difficulty for you to attack or attempt to evade The Crawling Mist by 1 for each card in your hand with an encounter card back.",
+        "text": "<b>Proie</b> - Most cards in hand.\nHunter. Massive.\nIncrease the difficulty for you to attack or attempt to evade The Crawling Mist by 1 for each card in your hand with an encounter card back.",
         "traits": "Monstre. Avatar."
     },
     {
@@ -416,7 +416,7 @@
     {
         "code": "06091",
         "name": "Hunting Ghast",
-        "text": "Hunter.\n<b>Prey</b> - Most damage.\n<b>Forcé</b> - After Hunting Ghast enters a location with a [[Gug]] enemy: Ready each [[Gug]] enemy at its location and deal 1 damage to Hunting Ghast.",
+        "text": "Hunter.\n<b>Proie</b> - Most damage.\n<b>Forcé</b> - After Hunting Ghast enters a location with a [[Gug]] enemy: Ready each [[Gug]] enemy at its location and deal 1 damage to Hunting Ghast.",
         "traits": "Humanoïde. Monstre. Ghast."
     },
     {
@@ -507,14 +507,14 @@
         "code": "06106",
         "flavor": "\"...although they live mostly on fungi it is muttered that they have also a slight taste for meat...\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Furtive Zoog",
-        "text": "<b>Spawn</b> - Engaged with the investigator at your location with the lowest [combat].\n<b>Prey</b> - Lowest [combat].\nRetaliate. Swarming 1.",
+        "text": "<b>Spawn</b> - Engaged with the investigator at your location with the lowest [combat].\n<b>Proie</b> - Lowest [combat].\nRetaliate. Swarming 1.",
         "traits": "Créature. Zoog."
     },
     {
         "code": "06107",
         "flavor": "\"...one sees their weird eyes long before one can discern their small, slippery brown outlines.\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Stealthy Zoog",
-        "text": "<b>Spawn</b> - Engaged with the investigator at your location with the lowest [agility].\n<b>Prey</b> - Lowest [agility].\nAlert. Swarming 1.",
+        "text": "<b>Spawn</b> - Engaged with the investigator at your location with the lowest [agility].\n<b>Proie</b> - Lowest [agility].\nAlert. Swarming 1.",
         "traits": "Créature. Zoog."
     },
     {
