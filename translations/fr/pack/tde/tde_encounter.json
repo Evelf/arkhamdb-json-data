@@ -351,20 +351,20 @@
     },
     {
         "code": "06081",
-        "name": "Suspicious Orderly",
-        "text": "Hunter.\nSuspicious Orderly cannot attack, be attacked, or be dealt damage.\nWhile Suspicious Orderly is engaged with you, you cannot investigate.",
+        "name": "Aide-Soignant Suspicieux",
+        "text": "Chasseur.\nL'Aide-Soignant Suspicieux ne peut ni attaquer, ni être attaqué, ni subir de dégâts. Tant que l'Aide-Soignant Suspicieux est engagé avec vous, vous ne pouvez pas enquêter.",
         "traits": "Humanoïde. Employé."
     },
     {
         "code": "06082",
-        "name": "Corrupted Orderly",
-        "text": "Hunter.\n<b>Forcé</b> - When Corrupted Orderly is dealt 1 or more damage while at an infested location: Cancel 1 of that damage.",
+        "name": "Aide-Soignant Corrompu",
+        "text": "Chasseur.\n<b>Forcé</b> - Quand l'Aide-Soignant Corrompu subit au moins 1 dégât alors qu'il se trouve dans un lieu infesté : annulez 1 de ces dégâts.",
         "traits": "Humanoïde. Employé. Araignée."
     },
     {
         "code": "06083",
-        "name": "Outbreak",
-        "text": "<b>Révélation</b> - Perform an infestation test. If you are at an infested location, treat each [tablet] token you reveal as a [skull] token instead.",
+        "name": "Épidémie",
+        "text": "<b>Révélation</b> - Effectuez un test d'infestation. Si vous êtes dans un lieu infesté, traitez chaque pion [tablet] que vous révélez comme étant un pion [skull] à la place.",
         "traits": "Risque."
     },
     {
