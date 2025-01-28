@@ -505,29 +505,29 @@
     },
     {
         "code": "06106",
-        "flavor": "\"...although they live mostly on fungi it is muttered that they have also a slight taste for meat...\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-        "name": "Furtive Zoog",
-        "text": "<b>Génération</b> - Engaged with the investigator at your location with the lowest [combat].\n<b>Proie</b> - Lowest [combat].\nRetaliate. Swarming 1.",
+        "flavor": "\"...quoiqu'ils se nourrissent surtout de champignons, l'on murmure qu'ils ont un certain penchant pour la chair...\" – H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue</u>",
+        "name": "Zoog Furtif",
+        "text": "<b>Génération</b> - Engagé avec l'investigateur dans votre lieu ayant la [combat] la plus faible.\n<b>Proie</b> - [combat] la plus faible.\nRiposte. Nuée 1.",
         "traits": "Créature. Zoog."
     },
     {
         "code": "06107",
-        "flavor": "\"...one sees their weird eyes long before one can discern their small, slippery brown outlines.\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-        "name": "Stealthy Zoog",
-        "text": "<b>Génération</b> - Engaged with the investigator at your location with the lowest [agility].\n<b>Proie</b> - Lowest [agility].\nAlert. Swarming 1.",
+        "flavor": "\"...l'on aperçoit leurs yeux magiques, bien avant de pouvoir discerner leurs petites silhouettes brunes.\" – H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue</u>",
+        "name": "Zoog Discret",
+        "text": "<b>Génération</b> - Engagé avec l'investigateur dans votre lieu ayant la [agility] la plus faible.\n<b>Proie</b> - [agility] la plus faible.\nAlerte. Nuée 1.",
         "traits": "Créature. Zoog."
     },
     {
         "code": "06108",
-        "flavor": "\"Most of them live in burrows, but some inhabit the trunks of the great trees...\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
-        "name": "Inconspicuous Zoog",
-        "text": "<b>Génération</b> - Any connecting location.\nHunter. Swarming 2.\n<b>Forcé</b> - When Inconspicuous Zoog is defeated: Cancel all excess damage and move any of its remaining swarm/host cards to a connecting location, exhausted.",
+        "flavor": "\"La plupart d'entre eux vivent dans des terriers, mais quelques-uns habitent le tronc des grands arbres...\" – H. P. Lovecraft, <u>La Quête Onirique de Kadath l'Inconnue</u>",
+        "name": "Zoog Inperceptible",
+        "text": "<b>Génération</b> - N'importe quel lieu connexe.\nChasseur. Nuée 2.\n<b>Forcé</b> - Quand le Zoog Imperceptible est vaincu : annulez tous les dégâts en excès et déplacez chacune de ses cartes hôte/de nuée restantes vers un lieu connexe, inclinées.",
         "traits": "Créature. Zoog."
     },
     {
         "code": "06109",
-        "name": "Zoog Burrow",
-        "text": "<b>Révélation</b> - Test [agility] (3). For each point you fail by, add 1 swarm card to the nearest swarming [[Zoog]] enemy. If you fail and there are no such enemies in play, search the encounter deck and discard pile for a [[Zoog]] enemy, draw it, and shuffle the encounter deck.",
+        "name": "Terrier de Zoog",
+        "text": "<b>Révélation</b> - Effectuez un test de [agility] (3). En cas d'échec, ajoutez 1 carte de nuée à l'ennemi [[Zoog]] avec le mot-clé Nuée le plus proche pour chaque point manquant. Si vous échouez mais qu'il n'y a pas d'ennemi correspondant en jeu, cherchez un ennemi [[Zoog]] dans le deck Rencontre ou dans la pile de défausse Rencontre, piochez-le et mélangez le deck Rencontre.",
         "traits": "Risque."
     }
 ]
