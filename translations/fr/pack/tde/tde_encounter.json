@@ -9,7 +9,7 @@
         "code": "06040",
         "flavor": "From your initial dream, you have been drawn into a familiar dreamscape: the same one that Virgil Gray traversed in his story in <u>Tales from Nevermore</u>. Is this real? Or is your mind simply conjuring what it expects to see?",
         "name": "Journey through the Gates",
-        "text": "<b>Forced</b> - When doom is placed on this agenda during the mythos phase, if any investigator is at a [[Steps]] location: Place 1 additional doom on this agenda.",
+        "text": "<b>Forcé</b> - When doom is placed on this agenda during the mythos phase, if any investigator is at a [[Steps]] location: Place 1 additional doom on this agenda.",
         "back_name": "Trick of the Mind",
         "back_text": "<b>If it is act 1, 2, or 3, read the following:</b>\n<i><blockquote>The steps begin to twist like a snake uncoiling from its sleep. You try to keep your balance, but there is nothing for you to cling to for safety as the stairs tilt and flip.</i></blockquote>\nEach surviving investigator is defeated and suffers 1 physical trauma. Each of those investigators may test [willpower] (3) before being defeated to remember that this is all a dream. Each investigator who succeeds is defeated and suffers 1 mental trauma, instead.<hr>\n<b>If it is act 4, read the following:</b>\n<i><blockquote>\"Help! Please! Anyone!\" The voice called out from the trees, far from the path. Normally, this sort of trick would not have fooled you, but the voice was too familiar to ignore. A loved one, perhaps, or someone you once failed in a time of need. It doesn't matter. It's too late now. You spin and look for the path, but it is nowhere to be found.</blockquote></i>\nRecord in your Campaign Log <i>the dreamers strayed from the path</i>. Each surviving investigator is defeated and suffers 1 mental trauma."
     },
@@ -44,7 +44,7 @@
         "code": "06044",
         "flavor": "All you have to do is stay on the path.",
         "name": "The Path",
-        "text": "<b>Forced</b> - After the first time any investigator enters an Enchanted Woods location: Record in your Campaign Log <i>the dreamers strayed from the path</i>.\n<b>Objective</b> - Only investigators at The Enchanted Path may spend the requisite number of clues, as a group, to advance.",
+        "text": "<b>Forcé</b> - After the first time any investigator enters an Enchanted Woods location: Record in your Campaign Log <i>the dreamers strayed from the path</i>.\n<b>Objective</b> - Only investigators at The Enchanted Path may spend the requisite number of clues, as a group, to advance.",
         "back_name": "New Visitors",
         "back_flavor": "As you near the edge of the wood, more of the rodent-like creatures emerge, swarming out of burrows and honeycombed trees. Soon, the whole forest is alive with them. They surround you and chitter in a language you somehow understand: \"Intruders.\" \"They are with the cats.\" \"New dreamers.\" \"No, they followed the black cat.\" \"But the black cat is not here.\" \"We are many; they are few.\" Several of them emit low growls as they begin to close in. ust then, you hear a human voice call out, \"What is the meaning of all this?\" The owner of the voice is a blond young man with an unfazed expression. He is flanked by a pack of angry cats, each of whom falls into step beside him, save for one scarred old cat who takes the lead. You realize that the man speaks not to you, but to the creatures all around you, who slink backward as they are scolded. Then, to your ever-growing surprise, the scarred cat speaks: \"Your tribute is late!\"",
         "back_text": "The investigators must decide (choose one):\n- Step back and watch this surreal scene play out. <b>(→R1)</b>\n- Interrupt the scarred cat and handle this yourself. <b>(→R2)</b>"
@@ -53,7 +53,7 @@
         "code": "06045",
         "name": "Seventy Steps",
         "subname": "Of Lighter Slumber",
-        "text": "<b>Forced</b> - When you leave the Seventy Steps: Take 1 horror for each card in your hand in excess of 5.\n[free]: Choose and discard 1 card from your hand.",
+        "text": "<b>Forcé</b> - When you leave the Seventy Steps: Take 1 horror for each card in your hand in excess of 5.\n[free]: Choose and discard 1 card from your hand.",
         "traits": "Marches.",
         "back_flavor": "You are no longer in your own world.\nA spiral of twisting stone steps hang suspended in the aether with no visible means of support. At the bottom of the steps, there is an island landing, also floating in the void, where a tall, golden gateway leads into a brightly lit cavern."
     },
@@ -61,7 +61,7 @@
         "code": "06046",
         "flavor": "\"In light slumber he descended the seventy steps to the cavern of flame and talked of this design to the bearded priests Nasht and Kaman-Thah. And the priests shook their pshent-bearing heads and vowed it would be the death of his soul.\" - H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "The Cavern of Flame",
-        "text": "<b>Forced</b> - At the end of the mythos phase: Each investigator in The Cavern of Flame takes 1 damage.",
+        "text": "<b>Forcé</b> - At the end of the mythos phase: Each investigator in The Cavern of Flame takes 1 damage.",
         "traits": "Grotte. Marches.",
         "back_flavor": "\"On this landing, there was a huge gate that spanned the width of the rocky platform. Gold-bronze and glimmering, the gate reached skyward and appeared to go on forever, disappearing into a roiling darkness above that reminded me of storm clouds.\" – Jennifer Brozek, <u>To Fight the Black Wind</u>",
         "back_text": "You cannot enter The Cavern of Flame unless all of the clues on the Seventy Steps have been discovered."
@@ -70,14 +70,14 @@
         "code": "06047",
         "name": "Seven Hundred Steps",
         "subname": "Of Deeper Slumber",
-        "text": "<b>Forced</b> - When you leave the Seven Hundred Steps: Take 1 horror for each card in your hand in excess of 3.\n[free]: Choose and discard 1 card from your hand.",
+        "text": "<b>Forcé</b> - When you leave the Seven Hundred Steps: Take 1 horror for each card in your hand in excess of 3.\n[free]: Choose and discard 1 card from your hand.",
         "traits": "Marches.",
         "back_flavor": "\"So asking a farewell blessing of the priests and thinking shrewdly on his course, he boldly descended the seven hundred steps to the Gate of Deeper Slumber.\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>"
     },
     {
         "code": "06048",
         "name": "Base of the Steps",
-        "text": "<b>Forced</b> - After you enter the Base of the Steps, if you have at least 1 card in your hand: Test [willpower] (X). X is the number of cards in your hand <i>(after committing cards to this test)</i>. If you fail, for each card in your hand, you must either take 1 horror or discard that card.",
+        "text": "<b>Forcé</b> - After you enter the Base of the Steps, if you have at least 1 card in your hand: Test [willpower] (X). X is the number of cards in your hand <i>(after committing cards to this test)</i>. If you fail, for each card in your hand, you must either take 1 horror or discard that card.",
         "traits": "Marches. Bois.",
         "back_flavor": "Eventually, the steps give way to loamy soil. Coiling up the bottom few steps is a bed of glowing fungi whose shapes defy natural convention.",
         "back_text": "You cannot enter the Base of the Steps unless all of the clues on the Seven Hundred Steps have been discovered."
@@ -104,7 +104,7 @@
         "flavor": "\"He remembered one particular village of the creatures near the centre of the wood.\" - H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Enchanted Woods",
         "subname": "Village of Zoogs",
-        "text": "<b>Forced</b> - After a [[Zoog]] enemy with the swarming X keyword spawns at this location: Add 1 additional swarm card to it.",
+        "text": "<b>Forcé</b> - After a [[Zoog]] enemy with the swarming X keyword spawns at this location: Add 1 additional swarm card to it.",
         "traits": "Bois.",
         "back_flavor": "Drawn deeper into the lush forest, you stray from the path..."
     },
@@ -113,7 +113,7 @@
         "flavor": "\"Finally the greater light of those thicker fungi revealed a sinister green and grey vastness pushing up through the roof of the forest and out of sight.\" - H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Enchanted Woods",
         "subname": "Great Stone Circle",
-        "text": "<b>Forced</b> - After this location is revealed: Spawn the set-aside Laboring Gug at this location.",
+        "text": "<b>Forcé</b> - After this location is revealed: Spawn the set-aside Laboring Gug at this location.",
         "traits": "Bois.",
         "back_flavor": "Drawn deeper into the lush forest, you stray from the path..."
     },
@@ -131,7 +131,7 @@
         "flavor": "\"The Council of Sages, recognising the visitor, offered a gourd of fermented sap from a haunted tree unlike the others...\" - H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Enchanted Woods",
         "subname": "The Moon-Tree",
-        "text": "<b>Forced</b> - After you enter this location: You must either take 2 horror or lose all of your remaining actions.",
+        "text": "<b>Forcé</b> - After you enter this location: You must either take 2 horror or lose all of your remaining actions.",
         "traits": "Bois.",
         "back_flavor": "Drawn deeper into the lush forest, you stray from the path..."
     },
@@ -140,7 +140,7 @@
         "flavor": "\"He traced his way by the grotesque fungi, which always seem better nourished as one approaches the dread circle...\" - H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Enchanted Woods",
         "subname": "Fungal Forest",
-        "text": "<b>Forced</b> - When your turn begins, if you are at this location: Reveal a random token from the chaos bag. If you reveal a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token, take 1 damage and lose 1 action.",
+        "text": "<b>Forcé</b> - When your turn begins, if you are at this location: Reveal a random token from the chaos bag. If you reveal a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token, take 1 damage and lose 1 action.",
         "traits": "Bois.",
         "back_flavor": "Drawn deeper into the lush forest, you stray from the path..."
     },
@@ -149,7 +149,7 @@
         "flavor": "\"In the tunnels of that twisted wood, whose low prodigious oaks twine groping boughs...\" - H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Enchanted Woods",
         "subname": "Lost Woods",
-        "text": "<b>Forced</b> - After you reveal this location: If you do not leave this location before the end of the round, place 1 doom on the current agenda.",
+        "text": "<b>Forcé</b> - After you reveal this location: If you do not leave this location before the end of the round, place 1 doom on the current agenda.",
         "traits": "Bois.",
         "back_flavor": "Drawn deeper into the lush forest, you stray from the path..."
     },
@@ -157,7 +157,7 @@
         "code": "06057",
         "name": "Kaman-Thah",
         "subname": "Priest of the Dreamlands",
-        "text": "Aloof. Retaliate.\n[action]: <b>Parley.</b> Test [willpower] or [intellect] (2) to prove that you are worthy to enter the Dreamlands. This test gets +1 [per_investigator] difficulty. If you succeed, flip Kaman-Thah over and resolve the text on his other side. If you fail, Kaman-Thah attacks each investigator at his location.\n<b>Forced</b> - After you defeat Kaman-Thah: Flip him over and resolve the text on his other side.",
+        "text": "Aloof. Retaliate.\n[action]: <b>Parley.</b> Test [willpower] or [intellect] (2) to prove that you are worthy to enter the Dreamlands. This test gets +1 [per_investigator] difficulty. If you succeed, flip Kaman-Thah over and resolve the text on his other side. If you fail, Kaman-Thah attacks each investigator at his location.\n<b>Forcé</b> - After you defeat Kaman-Thah: Flip him over and resolve the text on his other side.",
         "traits": "Contrées du Rêve. Veilleur. Élite."
     },
     {
@@ -169,7 +169,7 @@
         "code": "06058",
         "name": "Nasht",
         "subname": "Priest of the Dreamlands",
-        "text": "Aloof. Retaliate.\n[action]: <b>Parley.</b> Test [combat] or [agility] (2) to prove that you are worthy to enter the Dreamlands. This test gets +1 [per_investigator] difficulty. If you succeed, flip Nasht over and resolve the text on his other side. If you fail, Nasht attacks each investigator at his location.\n<b>Forced</b> - After you defeat Nasht: Flip him over and resolve the text on his other side.",
+        "text": "Aloof. Retaliate.\n[action]: <b>Parley.</b> Test [combat] or [agility] (2) to prove that you are worthy to enter the Dreamlands. This test gets +1 [per_investigator] difficulty. If you succeed, flip Nasht over and resolve the text on his other side. If you fail, Nasht attacks each investigator at his location.\n<b>Forcé</b> - After you defeat Nasht: Flip him over and resolve the text on his other side.",
         "traits": "Contrées du Rêve. Veilleur. Élite."
     },
     {
@@ -194,7 +194,7 @@
     {
         "code": "06061",
         "name": "Ancient Zoog",
-        "text": "<b>Spawn</b> - Any Enchanted Woods location (unrevealed, if able).\nAloof.\n<b>Forced</b> - At the start of the enemy phase, if Ancient Zoog is ready: Add 1 swarm card to each swarming [[Zoog]] enemy in play.",
+        "text": "<b>Spawn</b> - Any Enchanted Woods location (unrevealed, if able).\nAloof.\n<b>Forcé</b> - At the start of the enemy phase, if Ancient Zoog is ready: Add 1 swarm card to each swarming [[Zoog]] enemy in play.",
         "traits": "Créature. Zoog. Élite."
     },
     {
@@ -221,7 +221,7 @@
         "code": "06065",
         "flavor": "A monstrous presence has infested St. Mary’s. It lies inside the walls and watches you from all sides. In mere minutes, it has spun thick, sticky webbing throughout each of the rooms you visit. The lights are either flickering or out across the hospital, and some of the more advanced medical machinery is broken and covered in cobwebs.",
         "name": "The Infestation Spreads",
-        "text": "<b>Forced</b> - At the end of the mythos phase: Make an infestation test.",
+        "text": "<b>Forcé</b> - At the end of the mythos phase: Make an infestation test.",
         "back_name": "Hell Breaks Loose",
         "back_flavor": "Suddenly, chaos breaks out in the hospital. THe sound of chittering and crashing emerges from the walls. In the darkness, you can barely make out the shapes of bizarre spiderlike creatures scurrying in the distance. As you round a corner, you spot an orderly writhing on the polished floor, convulsing violently as though possessed by an insidious force. You rush to his side and flip him onto his back... and find that nearly all of his face is covered in thick webbing, and his eyes are wide and glazed over. He does not react as you shake him.",
         "back_text": "Find each Suspicious Orderly enemy in play and replace it with a set-aside Corrupted Orderly enemy <i>(it keeps its game state, all tokens, and all attachments)</i>.\nSearch the encounter deck and discard pile for each copy of Suspicious Orderly and remove them from the game.\nShuffle the set-aside <i>Agents of Atlach-Nacha</i> encounter set, each remaining set-aside Corrupted Orderly enemy, and the encounter discard pile into the encounter deck.\nAdd 1 [skull] token and 1 [cultist] token to the infestation bag."
@@ -230,7 +230,7 @@
         "code": "06066",
         "flavor": "The entire building has become infested with a sinister evil - something that does not follow the laws of nature. You need to find some way to either stop it or to escape before it consumes you, too.",
         "name": "Hospital of Horrors",
-        "text": "<b>Forced</b> - At the end of the mythos phase: Make an infestation test.\nEach [[Spider]] enemy at an infested location gets +1 fight and +1 evade.",
+        "text": "<b>Forcé</b> - At the end of the mythos phase: Make an infestation test.\nEach [[Spider]] enemy at an infested location gets +1 fight and +1 evade.",
         "back_name": "Desperate Escape",
         "back_flavor": "The infestation has claimed the hospital in its entirety. Not a single room has been left untouched. You race through its halls, searching desperately for a way out, and find only web-covered walls, victims wrapped in silken cocoons, and dead hospital staff hanging from the ceiling.",
         "back_text": "In your Campaign Log, record 8 tally marks next to \"Steps of the Bridge.\"\n<b>(→R4)</b>"
@@ -296,7 +296,7 @@
     {
         "code": "06074",
         "name": "Stairwell",
-        "text": "[reaction] After you enter Stairwell from a non-[[Basement]] location: Move to a [[Basement]] location. Then, test [agility] (4). If you fail, take 2 damage.\n<b>Forced</b> - After Stairwell becomes infested: Make an infestation test.",
+        "text": "[reaction] After you enter Stairwell from a non-[[Basement]] location: Move to a [[Basement]] location. Then, test [agility] (4). If you fail, take 2 damage.\n<b>Forcé</b> - After Stairwell becomes infested: Make an infestation test.",
         "traits": "St. Mary.",
         "back_flavor": "Through an unmarked door in the hall behind the experimental therapies ward, a dark staircase leads deeper into the hospital."
     },
@@ -304,7 +304,7 @@
         "code": "06075",
         "flavor": "That doesn't look human.",
         "name": "Morgue",
-        "text": "[action]: Test [willpower] (3). If you succeed, discover 1 clue at this location. If you fail, take 1 horror.\n<b>Forced</b> - After the last remaining clue is discovered from Morgue: Make an infestation test.",
+        "text": "[action]: Test [willpower] (3). If you succeed, discover 1 clue at this location. If you fail, take 1 horror.\n<b>Forcé</b> - After the last remaining clue is discovered from Morgue: Make an infestation test.",
         "traits": "St. Mary. Sous-sol.",
         "back_name": "Basement Door",
         "back_flavor": "One of several unmarked wooden doors in the cold, musty basement of St. Mary’s Hospital."
@@ -358,7 +358,7 @@
     {
         "code": "06082",
         "name": "Corrupted Orderly",
-        "text": "Hunter.\n<b>Forced</b> - When Corrupted Orderly is dealt 1 or more damage while at an infested location: Cancel 1 of that damage.",
+        "text": "Hunter.\n<b>Forcé</b> - When Corrupted Orderly is dealt 1 or more damage while at an infested location: Cancel 1 of that damage.",
         "traits": "Humanoïde. Employé. Araignée."
     },
     {
@@ -416,13 +416,13 @@
     {
         "code": "06091",
         "name": "Hunting Ghast",
-        "text": "Hunter.\n<b>Prey</b> - Most damage.\n<b>Forced</b> - After Hunting Ghast enters a location with a [[Gug]] enemy: Ready each [[Gug]] enemy at its location and deal 1 damage to Hunting Ghast.",
+        "text": "Hunter.\n<b>Prey</b> - Most damage.\n<b>Forcé</b> - After Hunting Ghast enters a location with a [[Gug]] enemy: Ready each [[Gug]] enemy at its location and deal 1 damage to Hunting Ghast.",
         "traits": "Humanoïde. Monstre. Ghast."
     },
     {
         "code": "06092",
         "name": "Lumbering Gug",
-        "text": "<b>Forced</b> - After Lumbering Gug exhausts: It does not ready during the next upkeep phase.",
+        "text": "<b>Forcé</b> - After Lumbering Gug exhausts: It does not ready during the next upkeep phase.",
         "traits": "Monstre. Gug."
     },
     {
@@ -446,13 +446,13 @@
     {
         "code": "06096",
         "name": "Dreamlands Eclipse",
-        "text": "<b>Revelation</b> - Put Dreamlands Eclipse into play next to the agenda deck.\n<b>Forced</b> - When you initiate an investigation: You must either take 1 horror, or your location gets +2 shroud for this investigation.\n<b>Forced</b> - At the end of the round: Discard Dreamlands Eclipse.",
+        "text": "<b>Revelation</b> - Put Dreamlands Eclipse into play next to the agenda deck.\n<b>Forcé</b> - When you initiate an investigation: You must either take 1 horror, or your location gets +2 shroud for this investigation.\n<b>Forcé</b> - At the end of the round: Discard Dreamlands Eclipse.",
         "traits": "Pouvoir."
     },
     {
         "code": "06097",
         "name": "Prismatic Phenomenon",
-        "text": "<b>Revelation</b> - Put Prismatic Phenomenon into play in your threat area.\nThe first time you perform one of the following actions (draw, resource, or play) each round, it costs 1 additional action.\n<b>Forced</b> - After you successfully investigate a location: Instead of discovering clues, discard Prismatic Phenomenon.",
+        "text": "<b>Revelation</b> - Put Prismatic Phenomenon into play in your threat area.\nThe first time you perform one of the following actions (draw, resource, or play) each round, it costs 1 additional action.\n<b>Forcé</b> - After you successfully investigate a location: Instead of discovering clues, discard Prismatic Phenomenon.",
         "traits": "Pouvoir."
     },
     {
@@ -494,13 +494,13 @@
     {
         "code": "06104",
         "name": "Hunted by Corsairs",
-        "text": "<b>Revelation</b> - Attach Hunted by Corsairs to the current act.\n<b>Forced</b> - When the act advances: Each investigator takes 2 damage.\nAttached act gains: \"[action]: Test [intellect] (4) to outwit the Corsairs or [agility] (4) to sneak past them. If you succeed, discard Hunted by Corsairs.\"",
+        "text": "<b>Revelation</b> - Attach Hunted by Corsairs to the current act.\n<b>Forcé</b> - When the act advances: Each investigator takes 2 damage.\nAttached act gains: \"[action]: Test [intellect] (4) to outwit the Corsairs or [agility] (4) to sneak past them. If you succeed, discard Hunted by Corsairs.\"",
         "traits": "Manigance."
     },
     {
         "code": "06105",
         "name": "Corsair of Leng",
-        "text": "<b>Spawn</b> - Nearest [[City]] or [[Surface]] location.\nAlert.\n<b>Forced</b> - After Corsair of Leng attacks via its alert keyword: It gets -3 evade for the remainder of the phase.",
+        "text": "<b>Spawn</b> - Nearest [[City]] or [[Surface]] location.\nAlert.\n<b>Forcé</b> - After Corsair of Leng attacks via its alert keyword: It gets -3 evade for the remainder of the phase.",
         "traits": "Humanoïde. Monstre."
     },
     {
@@ -521,7 +521,7 @@
         "code": "06108",
         "flavor": "\"Most of them live in burrows, but some inhabit the trunks of the great trees...\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Inconspicuous Zoog",
-        "text": "<b>Spawn</b> - Any connecting location.\nHunter. Swarming 2.\n<b>Forced</b> - When Inconspicuous Zoog is defeated: Cancel all excess damage and move any of its remaining swarm/host cards to a connecting location, exhausted.",
+        "text": "<b>Spawn</b> - Any connecting location.\nHunter. Swarming 2.\n<b>Forcé</b> - When Inconspicuous Zoog is defeated: Cancel all excess damage and move any of its remaining swarm/host cards to a connecting location, exhausted.",
         "traits": "Créature. Zoog."
     },
     {
