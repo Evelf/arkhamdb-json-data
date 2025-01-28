@@ -194,7 +194,7 @@
     {
         "code": "06061",
         "name": "Ancient Zoog",
-        "text": "<b>Spawn</b> - Any Enchanted Woods location (unrevealed, if able).\nAloof.\n<b>Forcé</b> - At the start of the enemy phase, if Ancient Zoog is ready: Add 1 swarm card to each swarming [[Zoog]] enemy in play.",
+        "text": "<b>Génération</b> - Any Enchanted Woods location (unrevealed, if able).\nAloof.\n<b>Forcé</b> - At the start of the enemy phase, if Ancient Zoog is ready: Add 1 swarm card to each swarming [[Zoog]] enemy in play.",
         "traits": "Créature. Zoog. Élite."
     },
     {
@@ -500,28 +500,28 @@
     {
         "code": "06105",
         "name": "Corsair of Leng",
-        "text": "<b>Spawn</b> - Nearest [[City]] or [[Surface]] location.\nAlert.\n<b>Forcé</b> - After Corsair of Leng attacks via its alert keyword: It gets -3 evade for the remainder of the phase.",
+        "text": "<b>Génération</b> - Nearest [[City]] or [[Surface]] location.\nAlert.\n<b>Forcé</b> - After Corsair of Leng attacks via its alert keyword: It gets -3 evade for the remainder of the phase.",
         "traits": "Humanoïde. Monstre."
     },
     {
         "code": "06106",
         "flavor": "\"...although they live mostly on fungi it is muttered that they have also a slight taste for meat...\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Furtive Zoog",
-        "text": "<b>Spawn</b> - Engaged with the investigator at your location with the lowest [combat].\n<b>Proie</b> - Lowest [combat].\nRetaliate. Swarming 1.",
+        "text": "<b>Génération</b> - Engaged with the investigator at your location with the lowest [combat].\n<b>Proie</b> - Lowest [combat].\nRetaliate. Swarming 1.",
         "traits": "Créature. Zoog."
     },
     {
         "code": "06107",
         "flavor": "\"...one sees their weird eyes long before one can discern their small, slippery brown outlines.\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Stealthy Zoog",
-        "text": "<b>Spawn</b> - Engaged with the investigator at your location with the lowest [agility].\n<b>Proie</b> - Lowest [agility].\nAlert. Swarming 1.",
+        "text": "<b>Génération</b> - Engaged with the investigator at your location with the lowest [agility].\n<b>Proie</b> - Lowest [agility].\nAlert. Swarming 1.",
         "traits": "Créature. Zoog."
     },
     {
         "code": "06108",
         "flavor": "\"Most of them live in burrows, but some inhabit the trunks of the great trees...\" – H. P. Lovecraft, <u>The Dream-Quest of Unknown Kadath</u>",
         "name": "Inconspicuous Zoog",
-        "text": "<b>Spawn</b> - Any connecting location.\nHunter. Swarming 2.\n<b>Forcé</b> - When Inconspicuous Zoog is defeated: Cancel all excess damage and move any of its remaining swarm/host cards to a connecting location, exhausted.",
+        "text": "<b>Génération</b> - Any connecting location.\nHunter. Swarming 2.\n<b>Forcé</b> - When Inconspicuous Zoog is defeated: Cancel all excess damage and move any of its remaining swarm/host cards to a connecting location, exhausted.",
         "traits": "Créature. Zoog."
     },
     {
