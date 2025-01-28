@@ -475,20 +475,20 @@
     },
     {
         "code": "06101",
-        "name": "Spider of Leng",
-        "text": "<b>Forced</b> - When the enemy phase ends: Add 1 swarm card to each Swarm of Spiders enemy in play. If there are no Swarm of Spiders enemies in play, search the encounter deck and discard pile for a Swarm of Spiders enemy and spawn it at Spider of Leng's location with no swarm cards.",
+        "name": "Araignée de Leng",
+        "text": "<b>Forcé</b> - Quand la phase des Ennemis se termine : ajoutez 1 carte de nuée à chaque ennemi Nuée d'Araignées en jeu. S'il n'y a pas d'ennemi Nuée d'Araignées en jeu, cherchez un ennemi Nuée d'Araignées dans le deck Rencontre ou dans la pile de défausse Rencontre et générez-le dans le lieu de l'Araignée de Leng, sans carte de nuée.",
         "traits": "Monstre. Araignée."
     },
     {
         "code": "06102",
-        "name": "Swarm of Spiders",
-        "text": "Swarming 2.\nX equals the number of Swarm of Spiders enemies at this location <i>(including swarm cards)</i>.",
+        "name": "Nuée d'Araignées",
+        "text": "Nuée 2.\nX est égal au nombre d'ennemis Nuée d'Araignées dans ce lieu (<i>en incluant les cartes de nuée</i>).",
         "traits": "Créature. Araignée."
     },
     {
         "code": "06103",
-        "name": "Sickening Webs",
-        "text": "<b>Revelation</b> - Attach to your location.\nEach [[Spider]] enemy at attached location gains retaliate and alert. Investigators cannot move out of attached location.\n[action]: Test [combat] (3) or [agility] (3). If you succeed, discard Sickening Webs.",
+        "name": "Toiles Répugnantes",
+        "text": "<b>Révélation</b> - Attachez cette carte à votre lieu.\nChaque ennemi [[Araignée]] dans le lieu attaché gagne Riposte et Alerte. Les investigateurs ne peuvent pas se déplacer hors du lieu attaché. \n[action] :  effectuez un test de [combat] (3) ou de [agility] (3). En cas de réussite, défaussez les Toiles Répugnantes.",
         "traits": "Obstacle."
     },
     {
