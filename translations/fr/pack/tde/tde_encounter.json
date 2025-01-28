@@ -369,14 +369,14 @@
     },
     {
         "code": "06084",
-        "name": "Grey Weaver",
-        "text": "<b>Proie</b> - Lowest [agility].\nHunter.\nWhile Grey Weaver is ready, each investigator at its location cannot take move actions.",
+        "name": "Tisseuse Grise",
+        "text": "<b>Proie</b> - [agility] la plus faible.\nChasseur.\nTant que la Tisseuse Grise est redressée, aucun investigateur dans son lieu ne peut effectuer d'actions Se déplacer.",
         "traits": "Monstre. Araignée."
     },
     {
         "code": "06085",
-        "name": "Will of the Spider-Mother",
-        "text": "<b>Révélation</b> - Test [willpower] (3). If there is a [[Spider]] enemy at your location, you cannot commit cards to this skill test. If you fail, you cannot attack or investigate until the end of the round.",
+        "name": "Volonté de la Mère-Araignée",
+        "text": "<b>Révélation</b> - Effectuez un test de [willpower] (3). S'il y a un ennemi [[Araignée]] dans votre lieu, vous ne pouvez pas attribuer de cartes à ce test de compétence. En cas d'échec, vous ne pouvez pas attaquer ou enquêter jusqu'à la fin du round.",
         "traits": "Pouvoir."
     },
     {
